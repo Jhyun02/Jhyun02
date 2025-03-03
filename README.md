@@ -7,8 +7,8 @@
   ## 👀 About Me
   #### :raising_hand: 
   #### :fire: I
-  #### :mortar_board: Hanyang university, ERICA (Ansan/Korea)    Mar 2021 - present
-  ####                college of cumputing
+  #### :mortar_board: Major in college of cumputing, Hanyang university, ERICA (Ansan/Korea)    Mar 2021 - present
+                  
   <br/>
   <br/>
   
