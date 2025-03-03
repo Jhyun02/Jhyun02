@@ -5,7 +5,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: 
+  #### :raising_hand: I'm JunHyun from SouthKorea
   #### :fire: I aim to Full-Stack Engineer 
   #### :mortar_board: Major in college of cumputing, Hanyang university, ERICA   (Mar 2021 - present)
                   
