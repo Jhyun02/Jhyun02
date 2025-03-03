@@ -25,3 +25,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--Notion-->
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <br/>
+
+
+  ## :email: Email
+  ##### : hjh75035117@gmail.com
