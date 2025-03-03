@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Jhyun02's%20GitHUb%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Jhyun02's%20GitHUb%20%F0%9F%A4%97&fontSize=50)
 <!--
 **Jhyun02/Jhyun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div>
