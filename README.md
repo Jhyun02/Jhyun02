@@ -6,7 +6,7 @@
   
   ## 👀 About Me
   #### :raising_hand: 
-  #### :fire: I
+  #### :fire: I aim to Full-Stack Engineer 
   #### :mortar_board: Major in college of cumputing, Hanyang university, ERICA   (Mar 2021 - present)
                   
   <br/>
